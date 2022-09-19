@@ -7,6 +7,6 @@ Layout bilded on flex.
  - JS
 ### Third party assets: (thanks to all who made it :pray:)
  - Design
- - JS (besides join popup)
+ - JS (besides signin.js) 
  - Free font
  > All credits in their files.
