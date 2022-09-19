@@ -1,14 +1,13 @@
 # Yoga Landing Page
 ### Description:
-One page  web-site HTML template.
+One page  web-site HTML template.\
+Layout bilded on flex.
 ### Used:
  - HTML
  - CSS
- - JS plugins:
-   - Signin popup
-   - Button up
- - Flex
- - Some accessibility
- - 1 free font
-
+ - JS
+### Third party assets: (thanks to all who made it :pray:)
+ - Design
+ - JS plugins: all, besides join popup
+ - Free font
  > All credits in their files.
