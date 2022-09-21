@@ -1,6 +1,6 @@
 # Yoga Landing Page
 One page  web-site HTML template.\
-Layout bilded on flex.
+Layout built on flex.
 ### Used:
  - HTML
  - CSS
